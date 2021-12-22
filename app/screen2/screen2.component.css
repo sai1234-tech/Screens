@@ -1,0 +1,46 @@
+.png{
+    top: 0px;
+    left: 0px;
+    width: 1300px;
+    height: 800px;
+    margin-left: 40px;
+    
+    background: #EBF3FE 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.ad{
+    position:relative;
+    top: 18px;
+margin-left: 125px;
+width: 1000px;
+height: 600px;
+background-size: 1000px;
+/* border: 2px solid black; */
+
+
+    background-image: url('../../assets/ad.svg');
+}
+input{
+  border-right: 5px;
+  border-left :5px;
+  border-top: 10px;
+  margin-left:20px;
+  background-color: whitesmoke;
+  position:relative;
+  /* bottom:390px; */
+  font: normal normal 300 22px/32px Poppins;
+/* color: #5F5F5F; */
+
+}
+
+  /* input:focus {
+    /* border-color: gray; */
+   
+/* .signup-form {
+width: 44rem;
+/* border: 1px solid; */
+/* margin: auto;
+} */ 
+.img{
+border-radius: 3px;
+}

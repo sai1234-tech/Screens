@@ -1,0 +1,11 @@
+.asd{
+    top: 0pt;
+width: 500px;
+height:270px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+/* background: #FFFFFF 0% 0% no-repeat padding-box; */
+background-color:whitesmoke;
+position:relative;
+margin-left: 80px;
+top:30px;
+}

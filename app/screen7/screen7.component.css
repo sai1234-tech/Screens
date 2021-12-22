@@ -1,0 +1,83 @@
+.cmd{
+    width:1300px;
+    height:1900px;
+    margin-left: 140px;
+    margin-top:60px;
+    background-color: whitesmoke;
+}
+.cd{
+    margin-left: 40px;
+    margin-top:20px;
+}
+a{
+    margin-left: 400px;font: normal normal bold 22px/26px Ubuntu;
+    letter-spacing: 0px;
+    color: #000000;
+    position:relative;
+    top:20px;
+    
+}
+.dnd{
+    margin-left:1000px;
+    position:relative;
+     bottom:60px;
+
+}
+.dl{
+    margin-left: 1100px;
+    position: relative;
+    bottom:100px;
+
+}
+.sss{
+    background-color:#EBF3FE;
+    width:1300px;
+    height:70px;
+    position:relative;
+    bottom:40px;
+}
+.sai{
+    background-color: #4285F2;
+    font: normal normal bold 22px/26px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+margin-left:900px;
+position:relative;
+bottom:80px;
+border:2px solid #4285F2;
+}
+.ang{
+    background-color: white;
+    margin-left:60px;
+    width:480px;
+    height: 400px;
+}
+.dn{
+    background-color: wheat;
+    margin-left:600px;
+    position:relative;
+    bottom:400px;
+    width:600px;
+    height:400px;
+
+}
+
+/* input [type=text]{
+ font: normal normal normal 22px/32px Poppins;
+letter-spacing: 0px;
+color: #5E5E5E; */
+/* } */
+
+input{
+    border-right: 5px;
+    border-left :5px;
+    border-top: 10px;
+    background-color: whitesmoke;
+    position:relative;
+    bottom:390px;
+    font: normal normal 300 22px/32px Poppins;
+letter-spacing: 0px;
+color: #5F5F5F;
+
+}
+

@@ -1,0 +1,17 @@
+.asd{
+  position:relative;
+  margin-left: 50px;
+  top:30px;
+  /* margin-right: 40px; */
+  width:90%;
+  height:800px;
+  /* background-image: url('../../assets/Group\ 888@2x.png'); */
+  /* background-image:" ../../assets/Group\ 888@2x.png"; */
+    background-color:whitesmoke;
+
+}
+h1{
+  position:relative;
+  text-align: center;
+  top:40px;
+}

@@ -1,0 +1,27 @@
+.mail{
+    position:relative;
+    background-color: whitesmoke;
+    margin-left:250px;
+    top:40px;
+    width:1200px;
+    height:680px;
+
+}
+
+.cdn{
+    position:relative;
+    margin-left:400px;
+    width:300px;
+    height:100px;
+    top:20px;
+}
+.amd{
+
+    position:relative;
+    margin-left:220px;
+    background-color:white;
+    height:400px;
+    top:140px;
+    bottom:30px;
+    width:800px;
+}

@@ -1,0 +1,22 @@
+.cd{
+    width:1400px;
+    height:800px;
+    background-image: url('../../assets/group.png');
+    /* background-color:wheat; */
+    /* background-color: red; */
+    margin-left: 140px;
+    margin-top:50px;
+}
+
+.sd{
+    background-color:#707070 ;
+    width:1000px;
+    height:60px;
+    margin-left:200px;
+}
+.dd{
+    background-color:#FFFFFF;
+    width:1000px;
+    height:500px;
+    margin-left:200px;
+}

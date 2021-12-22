@@ -1,0 +1,22 @@
+.png{
+    height:700px;
+    width:1300px;
+    background-color:whitesmoke;
+    background-image: url('../../assets/group.png');
+    margin-left:100px;
+    margin-top:50px;
+}
+.dng{
+    margin-left:700px;
+    position: relative;
+    top:40px;
+}
+.cdn{
+    text-align: center;
+    font: normal normal medium 72px/100px Poppins;
+letter-spacing: 1.44px;
+color: #4285F2;
+position:relative;
+top:100px;
+
+}

@@ -1,0 +1,53 @@
+.cdn{
+    position: relative;
+    margin-left:120px;
+    top:40px;
+    width:1400px;
+    height:1600px;
+    background-color: whitesmoke;
+}
+.cd{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+a{
+    margin-left:500px;
+    position:relative;
+    top:20px;
+    font: normal normal bold 22px/26px Ubuntu;
+    letter-spacing: 0px;
+    color: #000000;
+}
+.cnd{
+    margin-left: 1100px;
+    position: relative;
+    bottom:70px;
+
+}
+.db{
+    margin-left: 1200px;
+    position:relative;
+    bottom:110px;
+}
+.nan{
+   background-color:  #EBF3FE;
+   height:80px;
+   
+}
+.dnd{
+    position:relative;
+    width:390px;
+    height:440px;
+    background-color:white;
+    margin-left:60px;
+}
+.sai{
+    margin-left:600px;
+    position:relative;
+    bottom:440px;
+    height:450px;
+    width: 600px;
+
+
+    
+}

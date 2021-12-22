@@ -1,0 +1,46 @@
+.abc{
+    position:relative;
+    width:1600px;
+    height:900px;
+    background-color: whitesmoke;
+    margin-left: 80px;
+    top:30px;
+
+}
+
+.pnd{
+    margin-left: 80px;
+    position:relative;
+    top:40px;
+}
+.dng{
+    margin-left: 1300px;
+    position: relative;
+    bottom: 70px;
+    /* margin-left:1300px; */
+}
+.amd{
+    margin-left:1400px;
+    position:relative;
+    bottom:100px;
+    
+}
+
+.dp{
+    margin-left:100px;
+    width:260px;
+    height:270px;
+    background-color: white;
+}
+.cd{
+    position: relative;
+    bottom:430px;
+    /* bottom:220px; */
+    margin-left:90px;
+
+}
+
+.aw{
+    margin-left: 50px;
+    margin-top: 40px;
+}

@@ -1,0 +1,52 @@
+.amd{
+    position: relative;
+    top: 20px;
+width: 1300px;
+height: 890px;
+margin-left: 80px;
+    
+background:whitesmoke 0% 0% no-repeat padding-box;
+}
+
+
+
+.jdj{
+    position: relative;
+width: 300px;
+height: 280px;
+margin-left: 40px;
+position:relative;
+bottom:50px;
+    
+background-color: white;
+
+}
+.asd{
+    position:relative;
+margin-left: 25px;
+bottom:20px;
+}
+
+.bmw{
+    position:relative;
+    margin-left: 450px; 
+    background-color:blue;
+}
+.cd{
+    width:80px;
+    height:60px;
+    margin-left:20px;
+    margin-top:30px;
+}
+input[type=text]{
+    border-top: 10px;border-left: 5px;border-right:5px;margin-left:30px;font: normal normal 300 26px/32px Poppins;
+    letter-spacing: 0.52px;
+    color: #797979;
+
+}
+input [type=radio]{
+    font: normal normal normal 26px/32px Poppins;
+letter-spacing: 0.52px;
+color: #797979;
+
+}
